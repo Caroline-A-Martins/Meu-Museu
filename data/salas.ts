@@ -1,0 +1,1 @@
+export const salas = ["Home", "Sobre mim", "Evolução", "Atuais", "Treinos"];
